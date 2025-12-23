@@ -31,7 +31,7 @@ All POST requests should use JSON with the following structure:
 ```python
 import requests
 
-API_URL = "http://localhost:8000/api/stats"
+API_URL = "https://eagleeyeapi.deno.dev/api/stats"
 TOKEN = "<auth_token>"
 
 headers = {
