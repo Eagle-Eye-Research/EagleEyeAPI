@@ -11,6 +11,7 @@ import { handleSectorStats } from "./routes/algorithms/sector.ts";
 
 const ALLOWED_ORIGINS = [
     "https://eagleeyeresearch-web.vercel.app",
+    "https://aesthetic-cobbler-9f0d9a.netlify.app",
 ];
 
 //cors headers
